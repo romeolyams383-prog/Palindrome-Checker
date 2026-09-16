@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vérificateur de Palindrome</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Vérificateur de Palindrome</h1>
+        
+        <div class="form-group">
+            <input type="text" id="motInput" placeholder="Entrez un mot ou une phrase..." autocomplete="off">
+            <button onclick="verifierPalindrome()">Vérifier</button>
+        </div>
+
+        <div id="resultat" class="resultat-box hidden"></div>
+
+        <h2>Historique des vérifications</h2>
+        <ul id="historiqueList" class="historique-list"></ul>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
