@@ -1,0 +1,5 @@
+com\romeo\controller\PalindromeController.class
+com\romeo\App.class
+com\romeo\repository\VerificationRepository.class
+com\romeo\service\PalindromeService.class
+com\romeo\model\Verification.class
