@@ -142,7 +142,7 @@ palindrome-checker/
 ## 👤 Auteur
 
 **Votre Nom**
-- GitHub : [@votre-compte](https://github.com/votre-compte)
+- GitHub : [@romeolyams383](https://github.com/votre-compte)
 - Email : votre.email@example.com
 
 ---
