@@ -8,23 +8,7 @@
    **Interface moderne :** Design épuré en mode sombre (*Glassmorphism*) adaptatif et réactif.
 * **Persistance des données :** Sauvegarde automatique de chaque test dans une BDD MySQL via Spring Data JPA.
 
-* ## Structure du Projet
-palindrome-checker/
-├── src/
-│   ├── main/
-│   │   ├── java/com/romeo/
-│   │   │   ├── controller/      # Contrôleurs REST API
-│   │   │   ├── model/           # Entités JPA (Verification)
-│   │   │   ├── repository/      # Interfaces Spring Data JPA
-│   │   │   └── service/         # Logique métier (PalindromeService)
-│   │   └── resources/
-│   │       ├── static/          # Frontend (HTML, CSS, JavaScript)
-│   │       │   ├── index.html
-│   │       │   ├── style.css
-│   │       │   └── app.js
-│   │       └── application.properties
-└── pom.xml
----
+
 
 ##  Technologies utilisées
 
