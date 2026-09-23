@@ -139,11 +139,11 @@ palindrome-checker/
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
-**Votre Nom**
-- GitHub : [@romeolyams383](https://github.com/votre-compte)
-- Email : votre.email@example.com
+**Romeo ABDOU**
+- GitHub : 
+- Email : romeolyams383@gmail.com
 
 ---
 
