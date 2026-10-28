@@ -10,7 +10,7 @@
 
 ---
 
-## 🔍 Aperçu
+##  Aperçu
 
 **Palindrome Checker Pro** détecte les palindromes en ignorant la casse, les espaces, la ponctuation et les accents. Chaque vérification est sauvegardée en base de données et affichée en temps réel dans un historique élégant au design *Glassmorphism*.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **Vérification en temps réel** — prise en charge des majuscules, espaces, ponctuation et caractères accentués.
 - **Historique dynamique** — affichage instantané des dernières recherches, triées de la plus récente à la plus ancienne.
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 | Couche | Technologies |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-## ✅ Prérequis
+## Prérequis
 
 Avant de commencer, assurez-vous de disposer des éléments suivants :
 
@@ -52,7 +52,7 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 
 ---
 
-## ⚙️ Configuration de la base de données
+##  Configuration de la base de données
 
 ### 1. Démarrer MySQL
 
@@ -85,7 +85,7 @@ spring.jpa.show-sql=true
 
 ---
 
-## 🚀 Installation et lancement
+##  Installation et lancement
 
 ### 1. Cloner le dépôt
 
@@ -118,7 +118,7 @@ http://localhost:8080
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 palindrome-checker/
@@ -147,6 +147,6 @@ palindrome-checker/
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
